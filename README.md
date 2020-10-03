@@ -10,12 +10,6 @@ Test App for CloudWalk.
  - Saves for offline availability.
  - Handles authentication.
 
-Challenges.
-
- - Api (Polygon.io) had limitations on whats freely accessible. Getting tickers for instance wasn't. So sample dummy lists where used instead.
- From this list, the app then makes calls to individual symbols endpoint for details.
- - Api has a tiny limit on how may request can be made per minute.
-
 ## Screenshots
 Coming.
 
