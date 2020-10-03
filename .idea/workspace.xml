@@ -4,7 +4,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb9ea706-4d17-4cdd-b3a8-baf138c1052b" name="Default Changelist" comment="" />
+    <list default="true" id="eb9ea706-4d17-4cdd-b3a8-baf138c1052b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,10 +76,10 @@
       <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state x="120" y="152" width="1060" height="486" key="DiffContextDialog/0.23.1280.716@0.23.1280.716" timestamp="1601648275854" />
-    <state x="517" y="266" key="Github.ShareDialog" timestamp="1601042343020">
+    <state x="517" y="266" key="Github.ShareDialog" timestamp="1601764928412">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
-    <state x="517" y="266" key="Github.ShareDialog/0.23.1280.716@0.23.1280.716" timestamp="1601042343020" />
+    <state x="517" y="266" key="Github.ShareDialog/0.23.1280.716@0.23.1280.716" timestamp="1601764928412" />
     <state x="394" y="79" key="Github.UntrackedFilesDialog" timestamp="1601042404072">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
