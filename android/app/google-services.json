@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779564582249",
+    "firebase_url": "https://cloudwalk-d1e10.firebaseio.com",
+    "project_id": "cloudwalk-d1e10",
+    "storage_bucket": "cloudwalk-d1e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779564582249:android:2a10afdbf86d0857fde9f8",
+        "android_client_info": {
+          "package_name": "com.example.cloudwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779564582249-usgfdo1ufhen0gu30i26u1q3k0ne51li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSY4_30SE3rgWC3alYwLqdxKX0dmVbEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779564582249-usgfdo1ufhen0gu30i26u1q3k0ne51li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
