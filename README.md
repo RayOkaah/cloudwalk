@@ -2,10 +2,13 @@
 
 ## Introduction.
 
-A sample stock trading app.
+Test App for CloudWalk.
 
- - Select from a list of global stocks and view its details.
- - Handle authentication.
+ - Display a list of the images and a detail screen.
+ - The list shows the title, the date and the image in each item and provide a search field.
+ - Pull to refresh and pagination / Continuous scrolling features.
+ - Saves for offline availability.
+ - Handles authentication.
 
 Challenges.
 
@@ -14,8 +17,7 @@ Challenges.
  - Api has a tiny limit on how may request can be made per minute.
 
 ## Screenshots
-
-[Screenshots and Apk Uploaded to Google Drive](https://drive.google.com/drive/folders/1yIDTu3iZbaU2RFR9PyHziPBl-Qqd5IaP?usp=sharing)
+Coming.
 
 ## Getting Started
 
