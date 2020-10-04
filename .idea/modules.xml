@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/altalabs.iml" filepath="$PROJECT_DIR$/altalabs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/altalabs_android.iml" filepath="$PROJECT_DIR$/android/altalabs_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloudwalk.iml" filepath="$PROJECT_DIR$/.idea/cloudwalk.iml" />
     </modules>
   </component>
 </project>
